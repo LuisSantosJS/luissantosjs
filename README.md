@@ -7,4 +7,4 @@
 </div>
 </div>
 
-![Snake animation](https://github.com/luissantosjs/ItaloFL/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luissantosjs/luissantosjs/blob/output/github-contribution-grid-snake.svg)
